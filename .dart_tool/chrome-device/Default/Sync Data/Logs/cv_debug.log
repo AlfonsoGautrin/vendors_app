@@ -1,0 +1,3 @@
+{"logTime": "1020/000953", "correlationVector":"XpsvKhSL8kcSqSv5BQeicE.0","action":"FeedSettingFetch_homeCloud", "result":"0", "context":{}}
+{"logTime": "1020/000954", "correlationVector":"XpsvKhSL8kcSqSv5BQeicE.0","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"", "server":""}}
+{"logTime": "1020/000954", "correlationVector":"GYKs/lAROaLLrA+Z4+6sNS","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-3"}}
